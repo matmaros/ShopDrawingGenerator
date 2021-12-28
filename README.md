@@ -8,4 +8,6 @@ The file also references a 'note.txt' file.  This is a text file to contain gene
 
 Based on the data entered into the 'checklist.csv' file a drawing is produced by selecting 2d blocks arranged into the model space.  The below shows and example of a shower door shop drawing created for a glass shower door.  This also includes custom notes which are pulled form the csv file.
 
+To run this project download the rhino file and two csv files to your desktop.  In the python script - edit the file path at the top of the script to show the path for your desktop.  Open the rhino file and type "editpythonscript" into the command line.  Paste the contents of the python script and click run script.
+
 ![image](https://user-images.githubusercontent.com/67350711/119895450-cd02f280-bf0b-11eb-8059-40abcc38bb34.png)
